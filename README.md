@@ -15,6 +15,7 @@ Notre équipe **E‑kalaga** est composée de 12 étudiant·es de première ann�
 - Yanis T.
 - Amine O.
 - Edan P.
+
 Dans le cadre de la **Nuit de l’Info 2025**, nous avons développé une plateforme web ludique pour sensibiliser les établissements scolaires au numérique **Inclusif, Responsable et Durable (NIRD)**.
 
 ## Concept général du site
