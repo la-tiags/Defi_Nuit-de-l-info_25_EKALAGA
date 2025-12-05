@@ -67,6 +67,7 @@ nav, .navbar, header .nav, header.nav {
   .nav-links.is-open { display:flex; }
 }
 
+
 /* FOOTER */
 .site-footer {
   background: rgb(126, 104, 200);
