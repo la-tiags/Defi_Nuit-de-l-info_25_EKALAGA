@@ -3,18 +3,18 @@
 ## Présentation du projet
 
 Notre équipe **E‑kalaga** est composée de 12 étudiant·es de première année de BUT Informatique à l’IUT de Paris – Rives de Seine.
-- @aminaelhouari
-- [Tiago J.](https://github.com/la-tiags)
-- [Yasmine M.](https://github.com/eth3ral0)
-- [Kenza M.](https://github.com/Kenza-Mkd)
-- Aditya S.
-- Ahmed M.
-- Leonor Z.
+- [@aminaelhouari](https://github.com/aminaelhouari)
+- [@la-tiags](https://github.com/la-tiags)
+- [@eth3ral0](https://github.com/eth3ral0)
+- [@Kenza-Mkd](https://github.com/Kenza-Mkd)
+- [@sittinianeaditya-ai](https://github.com/sittinianeaditya-ai)
+- [@ahmed-muhammad7](https://github.com/ahmed-muhammad7)
+- [@leonorze](https://github.com/leonorze)
 - Hadja D.
 - Yassa A.
 - Yanis T.
-- Amine O.
-- Edan P.
+- [@O-Amine](https://github.com/O-Amine)
+- [@EdanPL](https://github.com/EdanPL)
 
 Dans le cadre de la **Nuit de l’Info 2025**, nous avons développé une plateforme web ludique pour sensibiliser les établissements scolaires au numérique **Inclusif, Responsable et Durable (NIRD)**.
 
