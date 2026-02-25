@@ -3,10 +3,10 @@
 ## Présentation du projet
 
 Notre équipe **E‑kalaga** est composée de 12 étudiant·es de première année de BUT Informatique à l’IUT de Paris – Rives de Seine.
-- Amina E.
-- Tiago J.
-- Yasmine M.
-- Kenza M.
+- @aminaelhouari
+- [Tiago J.](https://github.com/la-tiags)
+- [Yasmine M.](https://github.com/eth3ral0)
+- [Kenza M.](https://github.com/Kenza-Mkd)
 - Aditya S.
 - Ahmed M.
 - Leonor Z.
